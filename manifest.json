@@ -1,6 +1,6 @@
 {
     "name" : "wuyou-frontend",
-    "appid" : "__UNI__C1A0619",
+    "appid" : "__UNI__2F58CCA",
     "description" : "",
     "versionName" : "1.0.0",
     "versionCode" : "100",
@@ -53,7 +53,7 @@
     },
     "quickapp" : {},
     "mp-weixin" : {
-        "appid" : "wxfa637b9bab689989",
+        "appid" : "wx42e5ff9a1f0757ed",
         "setting" : {
             "urlCheck" : false,
             "minified" : true,

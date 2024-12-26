@@ -15,7 +15,7 @@
 				<view class="content">
 					<text class="yzb yzb-notice notice-icon"></text>
 					<view class="notice-text">
-						<text>北京世佳科技</text>
+						<text>红河滇码科技</text>
 						正在招聘
 						<text>项目经理</text>
 						职位
@@ -87,10 +87,8 @@ export default {
 			page: 1,
 			limit: 10,
 			banner: [
-				'https://pan.whiteones.cn/d/PicGo/wuyou/jobhigh_banner.png',
-				'https://pan.whiteones.cn/d/PicGo/wuyou/jobnew_banner.png',
-				'https://pan.whiteones.cn/d/PicGo/wuyou/company_banner.png',
-				'https://pan.whiteones.cn/d/PicGo/wuyou/resume_banner.png'
+				'https://cdn.tuc.us.kg/sw586/1103543468195699929.jpg',
+				'https://cdn.tuc.us.kg/sw586/1103543201907727084.jpg'
 			],
 			grid: [],
 			adList: [],
